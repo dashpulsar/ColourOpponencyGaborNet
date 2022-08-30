@@ -37,7 +37,7 @@ Expected directory structure
 Introduction about Gabor filter with different parameters.
 ------------------------------
 Click here
-[Introduction of the gabor filter](https://github.com/BlinkingStalker/ColourOpponencyGaborNet/bionet/Introduction.ipynb)
+[Introduction of the gabor filter](https://github.com/BlinkingStalker/ColourOpponencyGaborNet/blob/main/bionet/Introduction.ipynb)
 
 
 Training and testing the model
